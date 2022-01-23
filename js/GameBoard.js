@@ -92,9 +92,9 @@ export default class GameBoard {
 
         this.gameStarted = false;
 
-        this.bricks = new Spritesheet("../../resources/spritesheets/bricks.png", 2, 2, 8, 4, 2, 1);
-        this.backgrounds = new Spritesheet("../../resources/spritesheets/backgrounds.png", 0, 0, 128, 128, 0, 0);
-        this.foreground = new Spritesheet("../../resources/spritesheets/foreground.png", 0, 0, 128, 128, 0, 0);
+        this.bricks = new Spritesheet("../resources/spritesheets/bricks.png", 2, 2, 8, 4, 2, 1);
+        this.backgrounds = new Spritesheet("../resources/spritesheets/backgrounds.png", 0, 0, 128, 128, 0, 0);
+        this.foreground = new Spritesheet("../resources/spritesheets/foreground.png", 0, 0, 128, 128, 0, 0);
 
         this.pipeColliders = [
             new BoxCollider(new Vector2(0, this.scoreHeight), new Vector2(), new Vector2(this.width, this.pipeSize)),

@@ -22,7 +22,7 @@ export default class {
         this.gapY = gapY;
         this.scale = scale;
 
-        this.spritesheet = new Spritesheet("../../resources/spritesheets/bricks.png", 2, 2, 8, 4, 2, 1);
+        this.spritesheet = new Spritesheet("../resources/spritesheets/bricks.png", 2, 2, 8, 4, 2, 1);
 
         this.cellsX = null;
         this.cellsY = null;

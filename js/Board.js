@@ -101,7 +101,7 @@ export default class {
         this.somethingSelected = false;
         this.initialBlockSelectedState = false;
 
-        this.bricks = new Spritesheet("../../resources/spritesheets/bricks.png", 2, 2, 8, 4, 2, 1);
+        this.bricks = new Spritesheet("../resources/spritesheets/bricks.png", 2, 2, 8, 4, 2, 1);
 
         this.timeline = null;
     }
