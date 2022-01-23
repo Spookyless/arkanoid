@@ -46,3 +46,7 @@ The main goal of this project is to recreate the Wolfenstein 3D game and port it
 
 ## Future Development
 There are no plans regarding future development of this project
+
+## Credits
+All 3rd party resources used:
+- [Spritesheet](/resources/spritesheets/main.png) - @Davitmasia, @Kronbits
