@@ -10,6 +10,7 @@ Recreation of Arkanoid, written in Javascript with Canvas for rendering.
   - [Editor](#editor)
   - [Game](#game)
 - [Future Development](#future-development)
+- [Credits](#credits)
 
 ## Introduction
 The main goal of this project is to recreate the Wolfenstein 3D game and port it to the browsers. The project was created as a school assignment.
